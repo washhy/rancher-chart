@@ -1,0 +1,16 @@
+name: nginx
+version: latest
+appVersion: latest
+description: Fast, reliable, scalable, and easy to use open-source relational database
+  system.
+keywords:
+- nginx
+- web
+home: https://www.nginx.com/
+sources:
+- https://github.com/kubernetes/charts
+- https://github.com/docker-library/mysql
+maintainers:
+- name: Vic Iglesias
+  email: viglesias@google.com
+engine: gotpl
